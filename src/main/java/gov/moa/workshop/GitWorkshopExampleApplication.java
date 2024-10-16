@@ -9,7 +9,12 @@ public class GitWorkshopExampleApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitWorkshopExampleApplication.class, args);
     }
-
+    private void helloMOA () {
+    System.out.println("Hello MOA");
+}
+  private void SecurityChech () {
+    System.out.println("SecurityChech");
+}
     private void HelloAliveTeam () {
         System.out.println("Hello World!");
     }
