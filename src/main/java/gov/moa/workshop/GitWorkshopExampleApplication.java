@@ -10,4 +10,10 @@ public class GitWorkshopExampleApplication {
         SpringApplication.run(GitWorkshopExampleApplication.class, args);
     }
 
+    public static void methodTwo(){
+       System.out.println("Hello");
+
+    }  
+    
+
 }
