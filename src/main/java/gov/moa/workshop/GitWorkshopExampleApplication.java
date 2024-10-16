@@ -9,5 +9,6 @@ public class GitWorkshopExampleApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitWorkshopExampleApplication.class, args);
     }
-
+private void Ictteam{}
+System.out.println("Hello Teams");
 }
