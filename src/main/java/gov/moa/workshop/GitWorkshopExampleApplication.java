@@ -9,5 +9,7 @@ public class GitWorkshopExampleApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitWorkshopExampleApplication.class, args);
     }
-
+    private Hellcome(){
+        System.out.println("Hello Wubetu")
+    }
 }
