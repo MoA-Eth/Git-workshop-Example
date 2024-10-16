@@ -14,4 +14,10 @@ public class GitWorkshopExampleApplication {
         System.out.println("Hello World!");
     }
 
+    public static void methodTwo(){
+       System.out.println("Hello");
+
+    }
+
+
 }
