@@ -20,4 +20,9 @@ public class GitWorkshopExampleApplication {
     }
 
 
+    }
+    public static void Wecome()
+    {
+        System.out.println("Welcome to GitHub")
+
 }
