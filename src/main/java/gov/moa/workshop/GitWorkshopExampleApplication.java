@@ -10,13 +10,13 @@ public class GitWorkshopExampleApplication {
         SpringApplication.run(GitWorkshopExampleApplication.class, args);
     }
 
-    private void HelloAlive () {
+    private void HelloAliveTeam () {
         System.out.println("Hello World!");
     }
 
     public static void methodTwo(){
        System.out.println("Hello");
-
+        //More logic is added here
     }
 
 
