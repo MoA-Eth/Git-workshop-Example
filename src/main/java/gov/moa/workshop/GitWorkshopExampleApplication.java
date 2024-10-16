@@ -10,4 +10,8 @@ public class GitWorkshopExampleApplication {
         SpringApplication.run(GitWorkshopExampleApplication.class, args);
     }
 
+    private void HelloAlive () {
+        System.out.println("Hello World!");
+    }
+
 }
