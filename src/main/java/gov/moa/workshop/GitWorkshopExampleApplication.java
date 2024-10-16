@@ -15,4 +15,19 @@ public class GitWorkshopExampleApplication {
   private void SecurityChech () {
     System.out.println("SecurityChech");
 }
+    private void HelloAliveTeam () {
+        System.out.println("Hello World!");
+    }
+
+    public static void methodTwo(){
+       System.out.println("Hello");
+        //More logic is added here
+    }
+
+
+    }
+    public static void Wecome()
+    {
+        System.out.println("Welcome to GitHub")
+
 }
