@@ -12,4 +12,7 @@ public class GitWorkshopExampleApplication {
     private void helloMOA () {
     System.out.println("Hello MOA");
 }
+  private void SecurityChech () {
+    System.out.println("SecurityChech");
+}
 }
