@@ -9,5 +9,4 @@ public class GitWorkshopExampleApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitWorkshopExampleApplication.class, args);
     }
-
 }
